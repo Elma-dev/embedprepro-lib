@@ -1,0 +1,2 @@
+[console_scripts]
+embedprepro = preprocessing.cli:cli
