@@ -5,8 +5,9 @@
 </p>
 
 `embedprepro` is a command-line tool designed for text analysis tasks, including embedding, clustering, dimensionality reduction, and visualization. This tool leverages various machine learning and data processing techniques to provide a comprehensive solution for text data analysis.
-
-<img src="images/img.png">
+<p align="center">
+    <img src="images/img.png">
+</p>
 
 ## Table of Contents
 
