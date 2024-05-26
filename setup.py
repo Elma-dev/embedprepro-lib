@@ -2,7 +2,9 @@ from setuptools import setup, find_packages
 
 setup(
     name='embedprepro',
-    version='0.1',
+    version='0.11',
+    long_description=open('README.md').read(),
+    long_description_content_type='text/markdown',
     packages=find_packages(),
     install_requires=[
         "certifi==2024.2.2",

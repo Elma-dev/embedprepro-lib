@@ -1,12 +1,23 @@
 # Library
 <p align="center">
-    <img src="https://github.com/Elma-dev/embedprepro-lib/assets/67378945/eac85a48-54ed-4e90-8ce4-faddf1c2a7a2" width="250" height="250">
+    <img src="images/logo.png" width="250" height="250">
     
 </p>
 
 `embedprepro` is a command-line tool designed for text analysis tasks, including embedding, clustering, dimensionality reduction, and visualization. This tool leverages various machine learning and data processing techniques to provide a comprehensive solution for text data analysis.
 
-![image](https://github.com/Elma-dev/embedprepro-lib/assets/67378945/766c902d-9281-4baa-8996-10c9b3cd5df9)
+<img src="images/img.png">
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+  - [Command-line Interface](#command-line-interface)
+    - [Embedding](#embedding)
+    - [Dimensionality Reduction](#dimensionality-reduction)
+    - [Clustering](#clustering)
+    - [Visualization](#visualization)
+  - [Importing in Your Project](#python-project)
 
 # **Installation**
 
