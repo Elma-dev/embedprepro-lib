@@ -25,14 +25,13 @@
 You can install the package directly using pip:
 
 ```
-!pip install -U embedprepro==0.1
+!pip install -U embedprepro
 ```
 
 If you prefer to install the package from the source, clone the repository and install it using pip:
 
 ```
-
-git clone https://github.com/
+git clone https://github.com/Elma-dev/embedprepro-lib.git
 cd text_analysis_cli
 pip install .
 ```
