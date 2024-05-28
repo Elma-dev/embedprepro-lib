@@ -1,6 +1,8 @@
 Metadata-Version: 2.1
 Name: embedprepro
-Version: 0.11
+Version: 0.12
+Home-page: https://github.com/Elma-dev/embedprepro-lib.git/
+Author-email: elmajjodi.abdeljalil@gmail.com
 Description-Content-Type: text/markdown
 
 # Library
@@ -29,14 +31,14 @@ Description-Content-Type: text/markdown
 You can install the package directly using pip:
 
 ```
-!pip install -U embedprepro==0.1
+!pip install -U embedprepro
 ```
 
 If you prefer to install the package from the source, clone the repository and install it using pip:
 
 ```
 
-git clone https://github.com/
+git clone https://github.com/Elma-dev/embedprepro-lib.git
 cd text_analysis_cli
 pip install .
 ```
